@@ -1757,6 +1757,12 @@
 </item>
 
 <item>
+<title>CANADA: SPORTSNET 1</title>
+<link>http://rogerslive-i.akamaihd.net/hls/live/202799/event/index.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.tvqc.com/wp-content/themes/patterns/timthumb.php?src=http%3A%2F%2Fwww.tvqc.com%2Fwp-content%2Fuploads%2F2012%2F02%2Fsportsnet_one_short.jpg&q=90&w=650&zc=1</thumbnail>
+</item>
+
+<item>
 <title>CANADA: LCN</title>
 <link>rtmp://cp39414.live.edgefcs.net:1935/live playpath=lcn1@9753 swfUrl=http://assimilator.tv/strobe-1.6-sec.swf live=1 pageUrl=http://www.bandbsat.com/streaming/lcn-can-video_822ce30ec.html</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/57/LCN_(TV).svg/250px-LCN_(TV).svg.png</thumbnail>
@@ -4466,6 +4472,12 @@
 </item>
 
 <item>
+<title>UK: SKY SPORTS 1 HD (NEW)</title>
+<link>rtmpe://31.220.0.198/live playpath=sky1 pageUrl=http://www.pvtserverz.com/Vd?u#bt!25 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/de/6/6d/Sky_Sport_HD_1_off-air_2011.png</thumbnail>
+</item>
+
+<item>
 <title>UK: BT SPORTS 1</title>
 <link>rtmp://31.220.0.134:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=btssk1&vw=620&vh=490</link>
 <thumbnail>http://www.sporteconomy.it/sitestorage/btsport_logo2.jpg</thumbnail>
@@ -4499,6 +4511,12 @@
 <title>UK: GEMS TV</title>
 <link>rtmp://ch1.edge.streams.tggc.io:1935/gemshigh/ playpath=livestreamconst swfUrl=http://cdn.gemporia.com/global/js/jwplayer.flash.swf live=1 pageUrl=http://www.gemporia.com/en-gb/auction/uk/</link>
 <thumbnail>http://www.freeetv.com/images/02_logo/gems_tv_uk.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIDS: UK: BABY TV</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png</thumbnail>
 </item>
 
 <item>
@@ -4604,9 +4622,39 @@
 </item>
 
 <item>
+<title>KIDS: USA/UK: NICKELODEON</title>
+<link>http://202.75.23.36/live/ch43/03.m3u8</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20121013060525/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png</thumbnail>
+</item>
+
+<item>
+<title>KIDS: USA: BOOMERANG</title>
+<link>http://82.135.224.134/udp/239.102.0.207:1234</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130226220846/boomerangspykids/images/d/d3/Boomerang_logo.png</thumbnail>
+</item>
+
+<item>
+<title>KIDS: USA: CARTOONITO</title>
+<link>http://202.75.23.36/live/ch49/03.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/hu/8/8e/Cartoonito.png</thumbnail>
+</item>
+
+<item>
 <title>USA: SF GOV TV 2</title>
 <link>rtmp://207.7.154.12/sanfrancisco playpath=G0051_008 swfUrl=http://sanfrancisco.granicus.com/players/modernplayer.swf live=1 pageUrl=http://sanfrancisco.granicus.com/MediaPlayer.php?publish_id=47</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sf_gov_tv2_us.png</thumbnail>
+</item>
+
+<item>
+<title>KIDS: USA: CARTOON NETWORK</title>
+<link>rtmp://rtmp.zerocast.tv:1935/live/ playpath=08pydvp1b7ZwZb3a5TW1  swfurl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 swfVfy=1  pageurl=http://zerocast.tv/ playpath=08pydvp1b7ZwZb3a5TW1 token=3a439185c0f4b61f</link>
+<thumbnail>http://www.vectorsland.com/imgd/l47146-cartoon-network-logo-45841.png</thumbnail>
+</item>
+
+<item>
+<title>USA: CRIME AND INVESTIGATION CHANNEL</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334&bitrate=800</link>
+<thumbnail>http://www.crimeandinvestigationnetwork.com/profiles/crimeandinvestigation/themes/custom/crimeandinvestigation/images/crime-and-investigation-network.png</thumbnail>
 </item>
 
 <item>
@@ -4649,6 +4697,12 @@
 <title>USA: Animal Planet</title>
 <link>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/hasbahca.m3u8</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20091123075339/logopedia/images/5/55/Animal_Planet_2006.png</thumbnail>
+</item>
+
+<item>
+<title>USA: KTLA 5 LOS ANGELES</title>
+<link>rtmpe://46.246.124.90/live playpath=ktlausa_usa  swfurl=http://ukcast.co/player/player.swf  pageurl=http://www.ukcast.co</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/de/Ktla2009.png</thumbnail>
 </item>
 
 <item>
@@ -4814,7 +4868,7 @@
 </item>
 
 <item>
-<title>USA: DISNEY CHANNEL</title>
+<title>KIDS: USA: DISNEY CHANNEL</title>
 <link>http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/1/15/20140701185437!DisneyChannel2010.png</thumbnail>
 </item>
@@ -5355,7 +5409,7 @@
 </item>
 
 <item>
-<title>USA: Nickelodeon</title>
+<title>KIDS: USA: Nickelodeon</title>
 <link>rtmpe://46.246.124.88/live playpath=nickusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z</link>
 <thumbnail>http://img3.wikia.nocookie.net/__cb20090208155741/avatar/images/archive/1/17/20090213114133!Nickelodeon_logo.png</thumbnail>
 </item>
