@@ -3362,30 +3362,6 @@
 </item>
 
 <item>
-<title>KOREA: YES</title>
-<link>http://lm02.everyon.tv:1935/ptv2/phd493/hasbahca.m3u8</link>
-<thumbnail>http://www.g20yea.com/en/wp-content/uploads/member_southkorea.jpg</thumbnail>
-</item>
-
-<item>
-<title>KOREA: 1</title>
-<link>rtmp://111.118.21.75:1935/ptv2/phd1</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/a1/ONE_logo.jpg/150px-ONE_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>KOREA: KCTV</title>
-<link>rtsp://media2.kctvjeju.com/live5</link>
-<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/Watch-KCTV-Live-TV-from-South-Korea.jpg</thumbnail>
-</item>
-
-<item>
-<title>KOREA: Arirang</title>
-<link>http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8</link>
-<thumbnail>http://caribbeanpot.com/wp-content/uploads/2013/11/korea-tv.png</thumbnail>
-</item>
-
-<item>
 <title>LUXEMBOURG: RE: TV</title>
 <link>rtmp://live0.tiesraides.lv/live/vtv_2</link>
 <thumbnail>http://www.mapsofworld.com/images/world-countries-flags/luxembourg-flag.gif</thumbnail>
@@ -3935,6 +3911,30 @@
 <title>SENEGAL: Diaspora 24</title>
 <link>rtmp://live.mouridetv.net/live/ playpath=telebi swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.tele-bi.com/telebi/index.html</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/diaspora_24_sn.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: YES</title>
+<link>http://lm02.everyon.tv:1935/ptv2/phd493/hasbahca.m3u8</link>
+<thumbnail>http://www.g20yea.com/en/wp-content/uploads/member_southkorea.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: 1</title>
+<link>rtmp://111.118.21.75:1935/ptv2/phd1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/a1/ONE_logo.jpg/150px-ONE_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KCTV</title>
+<link>rtsp://media2.kctvjeju.com/live5</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/Watch-KCTV-Live-TV-from-South-Korea.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Arirang</title>
+<link>http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8</link>
+<thumbnail>http://caribbeanpot.com/wp-content/uploads/2013/11/korea-tv.png</thumbnail>
 </item>
 
 <item>
