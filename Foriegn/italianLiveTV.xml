@@ -3938,6 +3938,48 @@
 </item>
 
 <item>
+<title>SOUTH KOREA: JTBC</title>
+<link>rtmp://jcubelive.ktics.co.kr/jtbcweb5k/_definst_/jtbc500k_web.stream?token=bc9340854a1903b5e99b5e8be8dbbf25 playpath=jtbc500k_web.stream?token=bc9340854a1903b5e99b5e8be8dbbf25&expr=54508600&file=jtbc500k_web.stream swfUrl=http://fs.jtbc.joins.com/common/ctl/player/player.swf live=1 pageUrl=http://jtbc.joins.com/onair/onair.aspx?cloc=jtbc|navi|jtbcnow&screenSizeType=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jtbc_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Work TV</title>
+<link>rtmp://218.54.130.86:1935/live playpath=wowtvlive1.sdp swfUrl=http://www.worktv.or.kr/resource/common/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.worktv.or.kr/onAir/onAir.do</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/work_tv_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Tomato TV</title>
+<link>rtmp://etomatofms2.hscdn.com/etomato.dvr playpath=mp4:etomato swfUrl=http://webbbs.etomato.com/tomatoplayer/TomatoTVPlayer.swf live=1 pageUrl=http://webbbs.etomato.com/tomatoplayer/tomatotvplayer.html?s=etomato</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tomato_tv.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: PAXTV</title>
+<link>rtmp://ive playpath=livestream swfUrl=http://124.139.232.61/swfs/videoPlayer_2012.swf live=1 pageUrl=http://paxtv.moneta.co.kr/onAirLivePopup.jsp?from=paxnet</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pax_tv_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Oriental CJ Shopping 1</title>
+<link>rtmp://ocj1.kksmg.com:80/live playpath=ocj2 swfUrl=http://image1.ocj.com.cn/images/tvshop/ocj2.swf live=1 pageUrl=http://www.ocj.com.cn/tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/oriental_cj_shopping.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Mmoney</title>
+<link>rtmp://mmoneyweb.shinbnstar.com/mmoneyweb/mmlive playpath= swfUrl=http://mbnmoney.mbn.co.kr/software/player/flash/mmoneyPlayerVersion1.1.swf live=1 pageUrl=http://mbnmoney.mbn.co.kr/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/maeil_money_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KIDS TV</title>
+<link>rtmp://lm03.everyon.tv/ptv3 playpath=phd5?country=CA&quality=0&channel=phd5&player=embed_b2b&network=pc&domain=everyon&bitrate=896&server=org&category=0600 swfUrl=http://imgcdn.pandora.tv/gplayer/everyon/EveryonTV_B2B.swf?chNum=97&autoPlayMode=true live=1 pageUrl=http://www.kids17.net/community/notice_content.asp?boardseq=7873</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kids_tv_skylife.png</thumbnail>
+</item>
+
+<item>
 <title>SWITZERLAND: Schweiz 5</title>
 <link>rtmp://194.29.5.2:80/live/ playpath=myStream swfUrl=http://www.schweiz5.ch/v2/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.schweiz5.ch/v2/?page_id=52</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/schweiz5.png</thumbnail>
