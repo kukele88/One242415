@@ -3944,6 +3944,66 @@
 </item>
 
 <item>
+<title>SOUTH KOREA: Inet-TV</title>
+<link>rtmp://lm02.everyon.tv/ptv2 playpath=phd263?country=CA&quality=0&channel=phd263&player=embed_b2b&network=pc&domain=everyon&bitrate=896&server=org&category=1900 swfUrl=http://imgcdn.pandora.tv/gplayer/everyon/EveryonTV_B2B.swf?chNum=78&autoPlayMode=true live=1 pageUrl=http://www.inettv.tv/index_live.php</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/i_net.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: G1</title>
+<link>rtmp://smart.igtb.co.kr/live playpath=stream.sdp swfUrl=http://www.igtb.co.kr/vod/player.swf live=1 pageUrl=http://www.igtb.co.kr/pop/G1_onair.asp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/g1_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: EVENT TV</title>
+<link>rtmp://lm01.everyon.tv/ptv playpath=phd389?country=CA&quality=0&channel=phd389&player=embed_b2b&network=pc&domain=everyon&bitrate=696&server=org&category=1900 swfUrl=http://imgcdn.pandora.tv/gplayer/everyon/EveryonTV_B2B.swf?chNum=181&autoPlayMode=true live=1 pageUrl=http://www.event-tv.co.kr/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/event_tv.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Edaily TV</title>
+<link>rtmp://edaily.flive.skcdn.com/high/ playpath=livestream swfUrl=http://tv.edaily.co.kr/common/js/jwplayer.flash.swf live=1 pageUrl=http://tv.edaily.co.kr/live/flash/main/main_videolive.asp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/edaily.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: EBS U</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayerNew.swf live=1 pageUrl=http://www.ebs.co.kr/onair?channelCodeString=ebsu</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/200px-EBS_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: EBS PLUS 1</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/plus1familypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayerNew.swf live=1 pageUrl=http://www.ebs.co.kr/onair?channelCodeString=plus1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/200px-EBS_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: EBS TV</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/groundwavefamilypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayerNew.swf live=1 pageUrl=http://www.ebs.co.kr/onair?channelCodeString=tv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/200px-EBS_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: A CHANNEL</title>
+<link>rtmp://channelalive.ktics.co.kr:1935/pclive/_definst_?token=b04b95f6a92db4825a8f2cb9a3d91195&expr=5451cc60s playpath=ch1.stream swfUrl=http://tv.ichannela.com/playerData/player.swf live=1 pageUrl=http://tv.ichannela.com/onair#on201410300040</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_a_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: BBS</title>
+<link>rtmp://bbslive.clouducs.com/bbstv-live/ playpath=livestream swfUrl=http://www.bbsi.co.kr/BBS_FLASH_PLAYER/jwplayer/player.swf live=1 pageUrl=http://www.bbsi.co.kr/BBS_FLASH_PLAYER/?PG_TYPE=TV</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbs_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Asia N</title>
+<link>rtmp://lm06.everyon.tv/ptv6 playpath=phd433?country=CA&quality=0&channel=phd433&player=embed_b2b&network=pc&domain=everyon&bitrate=896&server=org&category=0200 swfUrl=http://imgcdn.pandora.tv/gplayer/everyon/EveryonTV_B2B.swf?chNum=64&autoPlayMode=true live=1 pageUrl=http://www.asiantv.co.kr/live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/asia_n_hd.png</thumbnail>
+</item>
+
+<item>
 <title>SOUTH KOREA: Tomato TV</title>
 <link>rtmp://etomatofms2.hscdn.com/etomato.dvr playpath=mp4:etomato swfUrl=http://webbbs.etomato.com/tomatoplayer/TomatoTVPlayer.swf live=1 pageUrl=http://webbbs.etomato.com/tomatoplayer/tomatotvplayer.html?s=etomato</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tomato_tv.png</thumbnail>
