@@ -773,6 +773,18 @@
 </item>
 
 <item>
+<title>01 ITALY: RAI 4</title>
+<link>mmsh://212.162.68.162/rai4</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/a/ac/20100521044420!Logo_Rai_4_2010.svg</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: RAI 5</title>
+<link>mmsh://212.162.68.162/rai5</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/260px-Rai_5_logo.svg.png</thumbnail>
+</item>
+
+<item>
 <title>01 ITALY: CBL TV Cinema</title>
 <link>rtmp://msh0193.stream.seeweb.it/live// playpath=stream00.sdp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.cblchannel.it/public/classic-43-cbl/prova.htm live=1</link>
 <thumbnail>http://www.onlinetvplanet.com/wp-content/uploads/2009/03/cbl-moovie.jpg</thumbnail>
