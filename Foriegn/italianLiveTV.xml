@@ -3950,6 +3950,12 @@
 </item>
 
 <item>
+<title>국립공원방송 NPB</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd851</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqdKEvsKJhUpExHjlYj_YfaamUyKYPj3paLtokaw6E6QDDbvEiI_Yv8tvK</thumbnail>
+</item>
+
+<item>
 <title>SOUTH KOREA: Inet-TV</title>
 <link>rtmp://lm02.everyon.tv/ptv2 playpath=phd263?country=CA&quality=0&channel=phd263&player=embed_b2b&network=pc&domain=everyon&bitrate=896&server=org&category=1900 swfUrl=http://imgcdn.pandora.tv/gplayer/everyon/EveryonTV_B2B.swf?chNum=78&autoPlayMode=true live=1 pageUrl=http://www.inettv.tv/index_live.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/i_net.png</thumbnail>
