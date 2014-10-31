@@ -4160,6 +4160,12 @@
 </item>
 
 <item>
+<title>SOUTH KOREA: MFS GOLF</title>
+<link>rtmp://lm01.everyon.tv:1935/ptv/pld58</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
 <title>SWITZERLAND: Schweiz 5</title>
 <link>rtmp://194.29.5.2:80/live/ playpath=myStream swfUrl=http://www.schweiz5.ch/v2/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.schweiz5.ch/v2/?page_id=52</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/schweiz5.png</thumbnail>
