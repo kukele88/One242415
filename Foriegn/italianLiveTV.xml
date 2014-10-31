@@ -961,7 +961,7 @@
 
 <item>
 <title>01 ITALY: MEDIASET ITALIA</title>
-<link>http://83.139.104.101/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8</link>
+<link>http://u.to/5Tg_CQ</link>
 <thumbnail>http://ww1.prweb.com/prfiles/2012/01/24/9135365/Mediaset%20Italia.png</thumbnail>
 </item>
 
@@ -2826,6 +2826,12 @@
 </item>
 
 <item>
+<title>GREECE: ANTENNA 3 HD</title>
+<link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100811074704/logopedia/images/7/75/Antena_3_logo_1989.png</thumbnail>
+</item>
+
+<item>
 <title>GREECE: Vouli Tileorasi</title>
 <link>http://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8?hsesid=1fc6d3c3cea0dd9fe84ae5b289c8a2df</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/vouli_tileorasi_gr.png</thumbnail>
@@ -2874,7 +2880,7 @@
 </item>
 
 <item>
-<title>GREECE: </title>
+<title>GREECE:</title>
 <link>rtmp://srv1.viiideo.gr/hellasonmedia playpath=neatv swfUrl=http://hellasonmedia.viiideo.gr/flowplayer/flowplayer.commercial-3.2.15.swf live=1 pageUrl=http://hellasonmedia.viiideo.gr/neatv1.html</link>
 <thumbnail>http://www.advertising.gr/ckfinder/userfiles/images/NeaTV_logo.jpg</thumbnail>
 </item>
@@ -4052,6 +4058,12 @@
 </item>
 
 <item>
+<title>SOUTH KOREA: M HD</title>
+<link>http://ilg.club/streamlink.m3u8?channel_id=8237601ce3ea4bae8332ebb0d88dba87</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/channel_m_asia.jpg</thumbnail>
+</item>
+
+<item>
 <title>SWEDEN: Kanal 10 Norge</title>
 <link>rtmp://cdn-flash.crossnet.net/kanal10no/ playpath=live1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.kanal10.no/web-tv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/kanal10_no.png</thumbnail>
@@ -4493,6 +4505,18 @@
 <title>UK: W2C</title>
 <link>mms://83.222.161.217/100livesport</link>
 <thumbnail>http://rallye.tomaspodoba.cz/upload/Loga/wrc-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>UK: CHANNEL 4</title>
+<link>http://cdn.live.simplestream.com/VKWY6U2RIGO3J8KQ0Q7B/5/playlist-limelight.m3u8</link>
+<thumbnail>http://www.tv-live.org.uk/wp/media/resources/c4.png</thumbnail>
+</item>
+
+<item>
+<title>UK: CHANNEL 5</title>
+<link>http://cdn.live.simplestream.com/Z41HSAHP2SD4XFSXTT3B/5/playlist-limelight.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110404224211/logopedia/images/7/7a/Channel_5_logo_2011_2.png</thumbnail>
 </item>
 
 <item>
@@ -5284,7 +5308,7 @@
 
 <item>
 <title>USA: MTV LIVE HD</title>
-<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0</link>
+<link>http://202.75.23.37/live/ch50/03.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png</thumbnail>
 </item>
 
@@ -5403,9 +5427,15 @@
 </item>
 
 <item>
-<title>USA: VH1</title>
-<link>http://77.90.73.1:4022/udp/233.136.41.32:1234</link>
-<thumbnail>http://cuedigitalmedia.com/wp-content/uploads/2012/05/Vh1NewLogo.png</thumbnail>
+<title>USA: VH1 CLASSIC</title>
+<link>http://gogo.jksw.cz:8024</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20091122071358/logopedia/images/7/78/VH1_Classic_2007.svg</thumbnail>
+</item>
+
+<item>
+<title>USA: VH1 CLASSIC</title>
+<link>http://90.189.183.223:1234/udp/233.7.70.229:5000</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
