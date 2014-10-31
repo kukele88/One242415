@@ -3944,13 +3944,139 @@
 </item>
 
 <item>
+<title>SOUTH KOREA: CMC HD</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd1</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: TV CHOSUN 1</title>
+<link>rtmp://live.chosun.gscdn.com/live/tvchosun1.stream</link>
+<thumbnail>http://media.marketwire.com/attachments/201303/133173_TV_Chosun.JPG</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: CBS TV</title>
+<link>rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_tv_kr.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: NEWS WIRE</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd133</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KTV</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd31</link>
+<thumbnail>http://bestwatchtv.com/wp-content/uploads/2013/02/Watch-KTV-Live-TV-from-South-Korea.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KIDS TV</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd5</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: LIVING TV</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd13</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: CGB</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd22</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: </title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd29</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: MEDICAL TV</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd32</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: TBS LIVE</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd40</link>
+<thumbnail>http://bestwatchtv.com/wp-content/uploads/2013/04/Watch-TBS-Live-TV-from-South-Korea.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: SILVER</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd45</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: N TV MOVIE</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd79</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: NEWS Y</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd133</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/Watch-News-Y-TV-Live-TV-from-South-Korea.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: FSTV</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd269</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fs_tv_kr.png</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: GMB</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd275</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: UP TV</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd752</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KOREA TRAVEL</title>
+<link>rtmp://lm03.everyon.tv:1935/ptv3/phd755</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: COOKING HEALTH TV</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd24</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Jeong Cheol English</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd169</link>
+<thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: YBS</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd189</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/yy/ybs_tv.png</thumbnail>
+</item>
+
+<item>
 <title>SOUTH KOREA: Work TV</title>
 <link>rtmp://218.54.130.86:1935/live playpath=wowtvlive1.sdp swfUrl=http://www.worktv.or.kr/resource/common/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.worktv.or.kr/onAir/onAir.do</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/work_tv_kr.png</thumbnail>
 </item>
 
 <item>
-<title>NPB</title>
+<title>SOUTH KOREA: NPB</title>
 <link>rtmp://lm03.everyon.tv:1935/ptv3/phd851</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqdKEvsKJhUpExHjlYj_YfaamUyKYPj3paLtokaw6E6QDDbvEiI_Yv8tvK</thumbnail>
 </item>
