@@ -1025,6 +1025,18 @@
 </item>
 
 <item>
+<title>AUSTRALIA: Sport AFL</title>
+<link>http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_med</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/1280px-Australian_Football_League.svg.png</thumbnail>
+</item>
+
+<item>
+<title>AUSTRALIA: BIG POND MUSIC</title>
+<link>http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com:80/bp_online_bpmusic_med</link>
+<thumbnail>http://www.musicoz.org/media/663-BPM_Logo_stores_lightbg.jpg</thumbnail>
+</item>
+
+<item>
 <title>AUSTRIA: W24</title>
 <link>rtmp://ms02.w24.at:1935/livepkgr playpath=livestream2 swfUrl=http://www.w24.at/assets/flash/Player.swf live=1 pageUrl=http://www.w24.at/TV-Live</link>
 <thumbnail>http://www.w24.at/assets/images/LogoTop.png</thumbnail>
