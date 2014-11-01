@@ -4021,7 +4021,7 @@
 </item>
 
 <item>
-<title>SOUTH KOREA: </title>
+<title>SOUTH KOREA:</title>
 <link>rtmp://lm03.everyon.tv:1935/ptv3/phd29</link>
 <thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
 </item>
@@ -4192,6 +4192,54 @@
 <title>SOUTH KOREA: MFS GOLF</title>
 <link>rtmp://lm01.everyon.tv:1935/ptv/pld58</link>
 <thumbnail>http://www.enchantedlearning.com/asia/southkorea/flag/Flagbig.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: CAR</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd409</link>
+<thumbnail>http://www.flags.net/images/largeflags/SKOR0001.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: HCN</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd407</link>
+<thumbnail>http://oltivi.com/asset/images/hcntv.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA:</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd493</link>
+<thumbnail>http://www.flags.net/images/largeflags/SKOR0001.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KTN</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd515</link>
+<thumbnail>https://lh5.googleusercontent.com/-6PeC88fewdQ/AAAAAAAAAAI/AAAAAAAAABs/3soZVbhRnoE/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: Onbook TV</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd549</link>
+<thumbnail>http://www.flags.net/images/largeflags/SKOR0001.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: TVis</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd551</link>
+<thumbnail>http://www.flags.net/images/largeflags/SKOR0001.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA: KWEATHER</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd581</link>
+<thumbnail>http://www.flags.net/images/largeflags/SKOR0001.GIF</thumbnail>
+</item>
+
+<item>
+<title>SOUTH KOREA:</title>
+<link>rtmp://lm01.everyon.tv:1935/ptv/phd639</link>
+<thumbnail>http://www.flags.net/images/largeflags/SKOR0001.GIF</thumbnail>
 </item>
 
 <item>
@@ -4855,6 +4903,12 @@
 </item>
 
 <item>
+<title>USA: OUTDOOR CHANNEL</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd613</link>
+<thumbnail>http://thecoloradoobserver.com/wp-content/uploads/2013/03/outdoor-channel.jpg</thumbnail>
+</item>
+
+<item>
 <title>USA: Liquidation Channel</title>
 <link>rtmp://cp240542.live.edgefcs.net/live/ playpath=lclive_rtmp_600@136733?streamType=LiveStream swfUrl=http://www.liquidationchannel.com/LLNWPlayer.swf live=1 pageUrl=http://www.liquidationchannel.com/watchliveTV.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/liquidation_channel.png</thumbnail>
@@ -5122,6 +5176,12 @@
 <title>USA: MIAMI TV 2</title>
 <link>rtmp://67.212.178.250:1935/sav_tvmiami/ playpath=myStream140 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.miamitvchannel.com/</link>
 <thumbnail>http://static.wixstatic.com/media/8ee394_ca580081ee7b47550c913aa8b3f049e7.jpg_srz_310_155_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
+</item>
+
+<item>
+<title>USA: VEGAS LIFE TV (VOD)</title>
+<link>http://pdl.vimeocdn.com/86354/578/301887044.mp4?token2=1414824172_42353b4eafc88d35b73e2c2fa964e43e&aksessionid=983440e93fb0dc63</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vegas_life_tv_us.png</thumbnail>
 </item>
 
 <item>
