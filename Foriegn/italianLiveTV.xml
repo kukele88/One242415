@@ -1043,6 +1043,12 @@
 </item>
 
 <item>
+<title>AUSTRALIA: Parliament of Australia</title>
+<link>http://DMZVIDEO1.aph.gov.au:80/HMS1V?WMContentBitrate=100000&MSWMExt;=.asf</link>
+<thumbnail>http://live-tv.me/wp-content/uploads/2014/05/Parliament-of-Australia.gif</thumbnail>
+</item>
+
+<item>
 <title>AUSTRIA: RTV</title>
 <link>http://wmsstream22.v4.mytv.ris.at/videostream?csessionid=72fd0ef6-f9a5-4c16-8a84-f65cc272738a</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtv_at.png</thumbnail>
@@ -5113,14 +5119,8 @@
 </item>
 
 <item>
-<title>USA: MIAMI TV AUTOSHOW</title>
-<link>http://74.208.69.207:1755/autoshow88</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/miami_tv_life.png</thumbnail>
-</item>
-
-<item>
 <title>USA: MIAMI TV 2</title>
-<link>rtmp://198.143.152.18/live/ playpath=miamitvhd swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.miamitvchannel.com/</link>
+<link>rtmp://67.212.178.250:1935/sav_tvmiami/ playpath=myStream140 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.miamitvchannel.com/</link>
 <thumbnail>http://static.wixstatic.com/media/8ee394_ca580081ee7b47550c913aa8b3f049e7.jpg_srz_310_155_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
 </item>
 
