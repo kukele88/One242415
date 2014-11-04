@@ -23,6 +23,11 @@
 <thumbnail>http://s7.postimg.org/5paz1nlqj/skull256x256.jpg</thumbnail>
 <date>DAILY</date>
 
+<name>Requests</name>
+<link>https://raw2.github.com/One242415/One242415/master/Misc/requests.xml</link>
+<thumbnail>http://s25.postimg.org/6k7z2fgzj/requests.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>In Theaters Now: Cams & TS Only</name>
 <link>https://raw2.github.com/One242415/One242415/master/Movies/camsonly.xml</link>
 <thumbnail>http://s25.postimg.org/qu821pzun/In_Theaters_Now.jpg</thumbnail>
@@ -41,16 +46,6 @@
 <name>IMAX</name>
 <link>https://raw2.github.com/One242415/One242415/master/Collections/imax.xml</link>
 <thumbnail>http://s25.postimg.org/h43zz1fzz/imax.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>LGBT FILMS</name>
-<link>https://raw2.github.com/One242415/One242415/master/Movies/Lfilms.xml</link>
-<thumbnail>http://s25.postimg.org/gf86jdydb/les.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>The Lucy Show (1962–1968)</name>
-<link>https://raw2.github.com/One242415/One242415/master/lucyshow/lucyshow_directory.xml</link>
-<thumbnail>http://s25.postimg.org/6am5gnjjz/lucyshow1.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>British Sitcoms</name>
@@ -163,11 +158,6 @@
 <thumbnail>http://s25.postimg.org/aummy0m2n/jasonstatham.jpg</thumbnail>
 <date>DAILY</date>
 
-<name>Requests</name>
-<link>https://raw2.github.com/One242415/One242415/master/Misc/requests.xml</link>
-<thumbnail>http://s25.postimg.org/6k7z2fgzj/requests.jpg</thumbnail>
-<date>DAILY</date>
-
 <name>Black Entertainment</name>
 <link>https://raw2.github.com/One242415/One242415/master/Movies/blackentertainment.xml</link>
 <thumbnail>http://s25.postimg.org/lf5aopoe7/blackentertainment.jpg</thumbnail>
@@ -186,11 +176,6 @@
 <name>Mafia/Gangster</name>
 <link>https://raw2.github.com/One242415/One242415/master/Movies/mafiamovies.xml</link>
 <thumbnail>http://s25.postimg.org/cstaw0ekf/Mafia_Soundtrack_mafia1.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>IMDb Top 300</name>
-<link>https://raw2.github.com/One242415/One242415/master/Movies/imdb300.xml</link>
-<thumbnail>http://s30.postimg.org/qbpp3f7n5/imdblogo.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Superheros</name>
@@ -218,7 +203,7 @@
 <thumbnail>http://s25.postimg.org/761ogueyn/Abbott_Costello.jpg</thumbnail>
 <date>DAILY</date>
 
-<name>Fast Car Movies</name>
+<name>Speed</name>
 <link>https://raw2.github.com/One242415/One242415/master/Collections/fastcars.xml</link>
 <thumbnail>http://s25.postimg.org/ghssawxtr/fastcars.jpg</thumbnail>
 <date>DAILY</date>
@@ -288,15 +273,12 @@
 <thumbnail>http://www.risorseutili.com/albums/vampiri%20vampires/vampiri%20gif%20vampires%20glitter%2013.jpg</thumbnail>
 <date>DAILY</date>
 
-<name>Wrestling</name>
-<link>https://raw2.github.com/One242415/One242415/master/Misc/Wrestling.xml</link>
-<thumbnail>http://s15.postimg.org/6sycmqp57/wrestling.jpg</thumbnail>
+<name>LGBT FILMS</name>
+<link>https://raw2.github.com/One242415/One242415/master/Movies/Lfilms.xml</link>
+<thumbnail>http://s25.postimg.org/gf86jdydb/les.jpg</thumbnail>
 <date>DAILY</date>
 
-<name>Toronto FC</name>
-<link>https://raw2.github.com/One242415/One242415/master/Misc/TorontoFC.xml</link>
-<thumbnail>http://s25.postimg.org/3k5dgg2tb/tfc1.jpg</thumbnail>
-<date>DAILY</date>
+<name>Twitter</name>
 
 <name>Twitter @One242415</name>
 <link>https://raw2.github.com/One242415/One242415/master/Misc/twitter.xml</link>
