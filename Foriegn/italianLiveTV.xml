@@ -9,23 +9,40 @@
 ##############################################################################################################################
 
 
-
-<item>
-<title>Halo: The Movie HD</title>
-<link>https://www.youtube.com/watch?v=SrPJ0j9NdVk&feature=youtu.be</link>
-<thumbnail>http://fc09.deviantart.net/fs70/f/2012/130/3/4/halo__the_movie_by_vhetin1138-d4z9vfd.jpg</thumbnail>
-</item>
-
-<item>
-<title>Gears of War: The Movie</title>
-<link>https://www.youtube.com/watch?v=ftEKg7kYi0M&feature=youtu.be</link>
-<thumbnail>http://fc02.deviantart.net/fs28/f/2008/060/9/c/Gears_of_War_movie_poster_by_gamingaddictmike125.png</thumbnail>
-</item>
-
 <item>
 <title>01 ITALY: RADIO: CALABRIA CANTA (EVERY SATURDAY 3:00PM - 6:00PM EST) TORONTO CANADA</title>
 <link>http://ice7.securenetsystems.net/CHINFM?type=.flv&playSessionID=C1F4B17C-AA37-06B0-E85434B91976F7B6&start=0</link>
 <thumbnail>http://www.yorkdownsrx.com/chin_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: LA7</title>
+<link>http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20130207200047/logopedia/images/e/e4/La7hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: MEDIASET ITALIA 2</title>
+<link>http://81.196.63.226/live/rkst5_4.stream/playlist.m3u8</link>
+<thumbnail>http://media.tvblog.it/I/Ita/Italia2biancosunero.jpg</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: MEDIASET RETE 4</title>
+<link>http://81.196.63.226/live/rkst3_3.stream/playlist.m3u8</link>
+<thumbnail>http://cdn.cinetivu.com/wp-content/uploads/2008/06/rete-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: MEDIASET 1</title>
+<link>http://81.196.63.226/live/rkst3_1.stream/playlist.m3u8</link>
+<thumbnail>http://www.mediaset.it/bin/46.$plit/C_22_articolo_qm_4706_lstParagrafi_paragrafo_0_upiFoto.jpg</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: MEDIASET 5</title>
+<link>http://81.196.63.226:1935/live/rkst3_2.stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_canale5.png</thumbnail>
 </item>
 
 <item>
@@ -984,7 +1001,7 @@
 
 <item>
 <title>01 ITALY: MEDIASET ITALIA</title>
-<link>http://u.to/5Tg_CQ</link>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8</link>
 <thumbnail>http://ww1.prweb.com/prfiles/2012/01/24/9135365/Mediaset%20Italia.png</thumbnail>
 </item>
 
