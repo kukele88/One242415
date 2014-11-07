@@ -155,19 +155,19 @@
 
 <item>
 <title>01 ITALY: SkySports Italia 1</title>
-<link>rtmp://31.220.0.104:1935/live playpath=sky01ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.195:1935/live playpath=amsportmechannel1 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15</link>
 <thumbnail>http://www.eurodigitalsystems.it/public/themes/eds/images/fixture-imgs/logo-sky-italia.jpg</thumbnail>
 </item>
 
 <item>
 <title>01 ITALY: SkySports Italia 2</title>
-<link>rtmp://31.220.0.134:1935/live playpath=skyita2new swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z</link>
+<link>rtmp://95.168.199.241:1935/live playpath=amsportmechannel2 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15</link>
 <thumbnail>http://www.eurodigitalsystems.it/public/themes/eds/images/fixture-imgs/logo-sky-italia.jpg</thumbnail>
 </item>
 
 <item>
 <title>01 ITALY: SkySports Italia 3</title>
-<link>rtmp://31.220.0.196:1935/live playpath=sky03itanew swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.195:1935/live playpath=amsportmechannel3 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15</link>
 <thumbnail>http://www.eurodigitalsystems.it/public/themes/eds/images/fixture-imgs/logo-sky-italia.jpg</thumbnail>
 </item>
 
@@ -665,7 +665,7 @@
 
 <item>
 <title>01 ITALY: Sky Calcio</title>
-<link>rtmp://31.220.0.86:1935/live playpath=skycalciomain swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z</link>
+<link>rtmp://31.220.0.195:1935/live playpath=amsportmechannel4 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15</link>
 <thumbnail>http://b.vimeocdn.com/ts/154/081/154081654_640.jpg</thumbnail>
 </item>
 
@@ -970,7 +970,7 @@
 </item>
 
 <item>
-<title>01 ITALY: RAI 1 (Down)</title>
+<title>01 ITALY: RAI 1 (fi</title>
 <link>http://77.90.73.1:4022/udp/233.136.41.70:1234</link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVc1IVpA5wl6Wq1FrroWi1pjZCyEHrbIDkSnZFm41zOtVmY37U</thumbnail>
 </item>
@@ -1887,12 +1887,6 @@
 </item>
 
 <item>
-<title>CANADA: SPORTSNET WORLD</title>
-<link>rtmp://31.220.0.134:1935/live playpath=sportnetworld swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sportnetworld&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
-<thumbnail>http://www.premiumsports.ca/images/sn_world.jpg</thumbnail>
-</item>
-
-<item>
 <title>CANADA: RADIO STATION: CHIN RADIO INTERNATIONAL TORONTO CANADA</title>
 <link>http://ice7.securenetsystems.net/CHINFM?type=.flv&playSessionID=EB9160B7-FD26-D05C-4FBEEFC46AE120FB&start=0</link>
 <thumbnail>http://ghanaiannews.danipadev.com/wp-content/uploads/2014/01/CHIN_RADIO_LOGO.png</thumbnail>
@@ -1900,7 +1894,7 @@
 
 <item>
 <title>CANADA: SPORTSNET ONTARIO</title>
-<link>rtmp://31.220.0.82:1935/live/spon live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+<link>rtmp://62.210.78.125:443/liverepeater/ playpath=168688 swfUrl=http://static.surk.tv/atdedead.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png</thumbnail>
 </item>
 
