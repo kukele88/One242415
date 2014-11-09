@@ -73,6 +73,36 @@
 <thumbnail>http://s25.postimg.org/pzt6se2in/Elvis2.jpg</thumbnail>
 <date>DAILY</date>
 
+<name>Clint Eastwood Collection</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/clinteastwood.xml</link>
+<thumbnail>http://s25.postimg.org/dq8gcznwf/clint_Eastwood.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Jack Nicholson Collection</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/jackN.xml</link>
+<thumbnail>http://s25.postimg.org/7821e8csf/Jack_Nicholson.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Steven Seagal Collection</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/seagal.xml</link>
+<thumbnail>http://s25.postimg.org/rt5s95jun/seagal_Collection.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Jason Statham Collection</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/jasonstatham.xml</link>
+<thumbnail>http://s25.postimg.org/aummy0m2n/jasonstatham.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Stephen King Collection</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/stephanking.xml</link>
+<thumbnail>http://s25.postimg.org/d55wv1txb/stephenking.jpg</thumbnail>
+<date>DAILY</date>
+
+<name>Abbott and Costello Collection</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/budandlou.xml</link>
+<thumbnail>http://s25.postimg.org/761ogueyn/Abbott_Costello.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>WAR</name>
 <link>https://raw.github.com/One242415/One242415/master/Collections/war.xml</link>
 <thumbnail>http://s25.postimg.org/azrvgsla7/war.jpg</thumbnail>
@@ -106,16 +136,6 @@
 <name>ZOMBIE Collection</name>
 <link>https://raw.github.com/One242415/One242415/master/Collections/zombies.xml</link>
 <thumbnail>http://s25.postimg.org/acq47y5rz/ZOMBIES.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>Jack Nicholson Collection</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/jackN.xml</link>
-<thumbnail>http://s25.postimg.org/7821e8csf/Jack_Nicholson.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>Steven Seagal Collection</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/seagal.xml</link>
-<thumbnail>http://s25.postimg.org/rt5s95jun/seagal_Collection.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>James Bond 007</name>
@@ -168,11 +188,6 @@
 <thumbnail>http://s25.postimg.org/72l1hvj5r/discofever.jpg</thumbnail>
 <date>DAILY</date>
 
-<name>Jason Statham Collection</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/jasonstatham.xml</link>
-<thumbnail>http://s25.postimg.org/aummy0m2n/jasonstatham.jpg</thumbnail>
-<date>DAILY</date>
-
 <name>Black Entertainment</name>
 <link>https://raw.github.com/One242415/One242415/master/Movies/blackentertainment.xml</link>
 <thumbnail>http://s25.postimg.org/lf5aopoe7/blackentertainment.jpg</thumbnail>
@@ -208,24 +223,9 @@
 <thumbnail>http://s25.postimg.org/hs3bnvkcf/roasts.jpg</thumbnail>
 <date>DAILY</date>
 
-<name>Stephen King Collection</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/stephanking.xml</link>
-<thumbnail>http://s25.postimg.org/d55wv1txb/stephenking.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>Abbott and Costello Collection</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/budandlou.xml</link>
-<thumbnail>http://s25.postimg.org/761ogueyn/Abbott_Costello.jpg</thumbnail>
-<date>DAILY</date>
-
 <name>Speed</name>
 <link>https://raw.github.com/One242415/One242415/master/Collections/fastcars.xml</link>
 <thumbnail>http://s25.postimg.org/ghssawxtr/fastcars.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>Clint Eastwood Collection</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/clinteastwood.xml</link>
-<thumbnail>http://s25.postimg.org/dq8gcznwf/clint_Eastwood.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Ultimate Western Collection</name>
@@ -292,8 +292,6 @@
 <link>https://raw.github.com/One242415/One242415/master/Movies/Lfilms.xml</link>
 <thumbnail>http://s25.postimg.org/gf86jdydb/les.jpg</thumbnail>
 <date>DAILY</date>
-
-<name>Twitter</name>
 
 <name>Twitter @One242415</name>
 <link>https://raw.github.com/One242415/One242415/master/Misc/twitter.xml</link>
