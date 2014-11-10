@@ -988,12 +988,6 @@
 </item>
 
 <item>
-<title>01 ITALY: RAI 1 (Down)</title>
-<link>http://77.90.73.1:4022/udp/233.136.41.70:1234</link>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVc1IVpA5wl6Wq1FrroWi1pjZCyEHrbIDkSnZFm41zOtVmY37U</thumbnail>
-</item>
-
-<item>
 <title>01 ITALY: Melito Tv ( Calabria )</title>
 <link>rtmp://188.40.2.148:1935/melitotv playpath=live.sdp swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.bandbsat.com/streaming/melito-tv-calabria-video_2d28134c0.html</link>
 <thumbnail>http://www.melitotv.it/cms/tools/thumbnail.aspx?f=False&w=200&h=200&img=/UserFiles/Image/News/1790_online_television_channel%20tv.jpg</thumbnail>
