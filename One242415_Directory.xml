@@ -58,6 +58,16 @@
 <thumbnail>http://s25.postimg.org/5ppwddx6n/football.png</thumbnail>
 <date>DAILY</date>
 
+<name>American Football Films</name>
+<link>https://raw.github.com/One242415/One242415/master/Movies/usafootball.xml</link>
+<thumbnail>http://s25.postimg.org/ju0xd4ncv/helmut.png</thumbnail>
+<date>DAILY</date>
+
+<name>Hockey Films</name>
+<link>https://raw.github.com/One242415/One242415/master/Collections/hockey.xml</link>
+<thumbnail>http://s25.postimg.org/8i3o2vzjz/hock.jpg</thumbnail>
+<date>DAILY</date>
+
 <name>Retro TV</name>
 <link>https://raw.github.com/One242415/One242415/master/retrotv/retrotv_directory.xml</link>
 <thumbnail>http://s25.postimg.org/j7itscf5r/retrotv1.jpg</thumbnail>
@@ -136,11 +146,6 @@
 <name>C.I.A.</name>
 <link>https://raw.github.com/One242415/One242415/master/Collections/cia.xml</link>
 <thumbnail>http://s25.postimg.org/b5jxlrdtr/cia_MOVIES.jpg</thumbnail>
-<date>DAILY</date>
-
-<name>Hockey Films</name>
-<link>https://raw.github.com/One242415/One242415/master/Collections/hockey.xml</link>
-<thumbnail>http://s25.postimg.org/8i3o2vzjz/hock.jpg</thumbnail>
 <date>DAILY</date>
 
 <name>Martial Arts</name>
