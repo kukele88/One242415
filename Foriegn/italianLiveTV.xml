@@ -16,6 +16,24 @@
 </item>
 
 <item>
+<title>01 ITALY: RAI 1</title>
+<link>http://81.196.63.226:1935/live/rkst4_1.stream/playlist.m3u8</link>
+<thumbnail>http://www.sicilia.onderadio.net/Loghi/TV/Rai%201.png</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: RAI 2</title>
+<link>http://81.196.63.226:1935/live/rkst4_2.stream/playlist.m3u8</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20131127065828/pocoyoworld/images/thumb/5/5b/200px-Rai_2_logo_2010.svg.png/200px-0,200,0,100-200px-Rai_2_logo_2010.svg.png</thumbnail>
+</item>
+
+<item>
+<title>01 ITALY: RAI 3</title>
+<link>http://81.196.63.226:1935/live/rkst4_3.stream/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Rai_3_Logo.svg/387px-Rai_3_Logo.svg.png</thumbnail>
+</item>
+
+<item>
 <title>01 ITALY: LA7</title>
 <link>http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8</link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20130207200047/logopedia/images/e/e4/La7hd.jpg</thumbnail>
