@@ -7,11 +7,11 @@ Follow me on twitter @one242415
 </info>
 ####################################################################################################################
 
-<item>
-<title>Latest Releases</title>
+
+<name>Latest Releases</name>
 <link>https://raw.github.com/One242415/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>http://s7.postimg.org/5paz1nlqj/skull256x256.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Christmas Films</title>
@@ -35,49 +35,42 @@ Follow me on twitter @one242415
 <title>Video Game Movies</title>
 <link>https://raw.github.com/One242415/One242415/master/Movies/cutscences.xml</link>
 <thumbnail>http://s25.postimg.org/i8l71xw73/gamemovies.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Video Game Trailers</title>
 <link>https://raw.github.com/One242415/One242415/master/Movies/gametrailers.xml</link>
 <thumbnail>http://s25.postimg.org/s6ns5gc3j/gametrailers.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>MONSTERS</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/monsters.xml</link>
 <thumbnail>http://s25.postimg.org/j7ymv6533/monsters1.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>GRINDHOUSE Theater</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/grindhouse.xml</link>
 <thumbnail>http://s25.postimg.org/f1mz7bk8v/ONEGrindhouse.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Blaxploitation</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/blax.xml</link>
 <thumbnail>http://s25.postimg.org/j0tdhmnnj/blaxploitation2.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>BATMAN: Animated Films</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/batman.xml</link>
 <thumbnail>http://s25.postimg.org/4h7zrm9fj/batman1.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>BEST FOOTBALL/SOCCER FILMS</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/football.xml</link>
 <thumbnail>http://s25.postimg.org/5ppwddx6n/football.png</thumbnail>
-
 </item>
 
 <item>
@@ -91,7 +84,6 @@ Follow me on twitter @one242415
 <title>Hockey Films</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/hockey.xml</link>
 <thumbnail>http://s25.postimg.org/6huei2x4v/lakingskull.jpg</thumbnail>
-
 </item>
 
 <item>
@@ -105,7 +97,6 @@ Follow me on twitter @one242415
 <title>IMAX</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/imax.xml</link>
 <thumbnail>http://s25.postimg.org/h43zz1fzz/imax.jpg</thumbnail>
-
 </item>
 
 <item>
@@ -119,49 +110,42 @@ Follow me on twitter @one242415
 <title>British Sitcoms</title>
 <link>https://raw.github.com/One242415/One242415/master/britsitcom/britsitcom_directory.xml</link>
 <thumbnail>http://s25.postimg.org/gyo29zxrz/UKsitcoms.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>British Stand-Up</title>
 <link>https://raw.github.com/One242415/One242415/master/Misc/standupUK.xml</link>
 <thumbnail>http://s27.postimg.org/nok0m5u1f/standup_UK1.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Elvis Presley Filmography</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/elvis.xml</link>
 <thumbnail>http://s25.postimg.org/pzt6se2in/Elvis2.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Clint Eastwood Collection</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/clinteastwood.xml</link>
 <thumbnail>http://s25.postimg.org/dq8gcznwf/clint_Eastwood.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Jack Nicholson Collection</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/jackN.xml</link>
 <thumbnail>http://s25.postimg.org/7821e8csf/Jack_Nicholson.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Steven Seagal Collection</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/seagal.xml</link>
 <thumbnail>http://s25.postimg.org/rt5s95jun/seagal_Collection.jpg</thumbnail>
-
 </item>
 
 <item>
 <title>Jason Statham Collection</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/jasonstatham.xml</link>
 <thumbnail>http://s25.postimg.org/aummy0m2n/jasonstatham.jpg</thumbnail>
-
 </item>
 
 <item>
@@ -175,7 +159,6 @@ Follow me on twitter @one242415
 <title>Abbott and Costello Collection</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/budandlou.xml</link>
 <thumbnail>http://s25.postimg.org/761ogueyn/Abbott_Costello.jpg</thumbnail>
-
 </item>
 
 <item>
@@ -189,7 +172,6 @@ Follow me on twitter @one242415
 <title>DISASTERS</title>
 <link>https://raw.github.com/One242415/One242415/master/Collections/disaster.xml</link>
 <thumbnail>http://s25.postimg.org/5pmwpi11b/disaster.jpg</thumbnail>
-
 </item>
 
 <item>
